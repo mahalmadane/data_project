@@ -1,0 +1,6 @@
+[core]
+    remote = mystore
+['remote "mystore"']
+    url = /tmp/store
+['remote "drive"']
+    url = gdrive://1XK19xZlwvDvB6GuHSPzKgNEbNHCbNK4U
