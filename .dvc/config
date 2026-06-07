@@ -6,3 +6,5 @@
     url = gdrive://1XK19xZlwvDvB6GuHSPzKgNEbNHCbNK4U
 ['remote "myremote"']
     url = /tmp/dvcstore
+['remote "gdrive"']
+    url = gdrive://1XK19xZlwvDvB6GuHSPzKgNEbNHCbNK4U
