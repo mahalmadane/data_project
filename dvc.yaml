@@ -1,0 +1,16 @@
+stages:
+  stage_1:
+    cmd: python3 pipeline/pip_1.py
+    deps:
+      - data/textFiles/file.txt
+  
+  stage_2:
+    cmd: python3 pipeline/pip_1.py
+    deps:
+      - data/textFiles/file.txt
+
+  stage_3:
+    cmd: python3 pipeline/pip_1.py
+    deps:
+      - data/textFiles/file.txt
+
